@@ -1,6 +1,8 @@
 ## ss-for-gfw
 > Shadowsock for gfw.
 
+## more simple way:
++ https://github.com/afeiship/docker-shadowsocks
 
 ## resources:
 + https://shadowsocks.org/en/download/clients.html
